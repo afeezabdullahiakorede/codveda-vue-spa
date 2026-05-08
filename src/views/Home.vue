@@ -1,7 +1,9 @@
 <template>
   <div>
     <h1>🏠 Home Page</h1>
-    <p>Welcome to the main station of my first Single Page Application!</p>
+    <p>Welcome to the main station of my first Single Page Application!</p><br>
+    <p>Use the navigation links above to explore the About and Contact pages.</p><br>
+    <p>Created by Afeez Abdullahi Akorede, 2026.</p>
   </div>
 </template>
 

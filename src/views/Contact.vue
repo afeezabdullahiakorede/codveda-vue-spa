@@ -1,8 +1,8 @@
 <template>
   <div class="contact-page">
     <h1>📞 Contact Us</h1>
-    <p>Get in touch with the development team at support@myvuespa.com.</p>
-    <p>We'd love to hear your feedback and suggestions for improving our application!</p>
+    <p>Get in touch with the development team at aabdullahiakorede@gmail.com.</p><br>
+    <p>We'd love to hear your feedback and suggestions for improving our application!</p><br>
     <p>Created by Afeez Abdullahi Akorede, 2026.</p>
   </div>
 </template>

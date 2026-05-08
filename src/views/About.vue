@@ -1,8 +1,8 @@
 <template>
   <div>
     <h1>ℹ️ About Page</h1>
-    <p>This is a simple Single Page Application built with Vue 3 and Vite. It demonstrates basic routing and component structure.</p>
-    <p>Feel free to explore the Home and Contact pages using the navigation links above!</p>
+    <p>This is a simple Single Page Application built with Vue 3 and Vite. It demonstrates basic routing and component structure.</p><br>
+    <p>Feel free to explore the Home and Contact pages using the navigation links above!</p><br>
     <p>Created by Afeez Abdullahi Akorede, 2026.</p>
   </div>    
 </template>
